@@ -2,12 +2,12 @@ string again = "a";
 while (again == "a")
 {
     Console.Clear();
-    Console.WriteLine("**********************************************");
-    Console.WriteLine("************* Výpis číselné řady *************");
-    Console.WriteLine("**********************************************");
-    Console.WriteLine("*************** Tadeáš Mojžíš ****************");
-    Console.WriteLine("**************** 14.10.2025 ******************");
-    Console.WriteLine("**********************************************");
+    Console.WriteLine("********************************************");
+    Console.WriteLine("************ Výpis číselné řady ************");
+    Console.WriteLine("********************************************");
+    Console.WriteLine("************** Tadeáš Mojžíš ***************");
+    Console.WriteLine("*************** 14.10.2025 *****************");
+    Console.WriteLine("********************************************");
     Console.WriteLine();
 
     // Vstup číselné hodnoty do programu - špatně řešený
