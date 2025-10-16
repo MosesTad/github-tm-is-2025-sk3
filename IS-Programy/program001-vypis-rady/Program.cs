@@ -42,8 +42,17 @@ while (again == "a")
 
 
     Console.WriteLine();
-    Console.WriteLine("Pro opakování stiskněte klávesu a");
-    again = Console.ReadLine();
+    Console.WriteLine("=====================================");
+    Console.WriteLine("Zadali jste tyto hodnoty: ");
+    Console.WriteLine("První číslo řady:{0}", first);
+    Console.WriteLine("Posldení číslo řady:{0}", last);
+    Console.WriteLine("diference:{0}", step);
+    Console.WriteLine("=====================================");
+    Console.WriteLine("První číslo:{0}; Poslední číslo:{1}; Diference:{2}",first, last, step);
+    Console.WriteLine("=====================================");
+    Console.WriteLine();
+    
+    
 
 
 
