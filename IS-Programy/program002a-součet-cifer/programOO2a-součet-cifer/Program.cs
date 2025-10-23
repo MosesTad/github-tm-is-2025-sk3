@@ -1,4 +1,4 @@
-string again = "a";
+﻿string again = "a";
 while (again == "a")
 {
     Console.Clear();
@@ -43,7 +43,7 @@ while (again == "a")
     suma = suma + number;
 
     Console.WriteLine();
-    Console.WriteLine("Součet cifer čísla {0} je {1}", suma);
+    Console.WriteLine("Součet cifer čísla {0} je {1}", numberBackup, suma);
 
 
 

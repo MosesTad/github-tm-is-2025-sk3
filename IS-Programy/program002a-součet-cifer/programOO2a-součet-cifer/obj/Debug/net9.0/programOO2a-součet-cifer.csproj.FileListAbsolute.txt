@@ -1,0 +1,15 @@
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\bin\Debug\net9.0\programOO2a-součet-cifer.exe
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\bin\Debug\net9.0\programOO2a-součet-cifer.deps.json
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\bin\Debug\net9.0\programOO2a-součet-cifer.runtimeconfig.json
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\bin\Debug\net9.0\programOO2a-součet-cifer.dll
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\bin\Debug\net9.0\programOO2a-součet-cifer.pdb
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\obj\Debug\net9.0\programOO2a-součet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\obj\Debug\net9.0\programOO2a-součet-cifer.AssemblyInfoInputs.cache
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\obj\Debug\net9.0\programOO2a-součet-cifer.AssemblyInfo.cs
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\obj\Debug\net9.0\programOO2a-součet-cifer.csproj.CoreCompileInputs.cache
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\obj\Debug\net9.0\programOO2a-součet-cifer.sourcelink.json
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\obj\Debug\net9.0\programOO2a-součet-cifer.dll
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\obj\Debug\net9.0\refint\programOO2a-součet-cifer.dll
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\obj\Debug\net9.0\programOO2a-součet-cifer.pdb
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\obj\Debug\net9.0\programOO2a-součet-cifer.genruntimeconfig.cache
+C:\Users\tadea\Desktop\bbb\github-tm-is-2025-sk3\IS-Programy\program002a-součet-cifer\programOO2a-součet-cifer\obj\Debug\net9.0\ref\programOO2a-součet-cifer.dll
